@@ -1,7 +1,5 @@
 # NLP会议列表
 
-参考列表：[http://www.wikicfp.com](http://www.wikicfp.com/)
-
 
 
 | 会议名称          | 举办地点                               | Abstraction Registration Due | submission Deadline | Notification Due   | Final Version Due   | 官网                                              |
@@ -28,7 +26,11 @@
 
 
 
+## 参考网站
 
+[http://www.wikicfp.com](http://www.wikicfp.com/)
+
+https://aideadlin.es/?sub=NLP
 
 
 

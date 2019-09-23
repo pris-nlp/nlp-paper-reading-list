@@ -6,7 +6,7 @@
   * [Dataset](#dataset)
   * [Evaluation metrics](#evaluation-metrics)
   * [Reinforcement Learning](#reinforcement-learning)
-  * [Memory networks](#memory-networks)
+  * [引入背景知识](#引入背景知识)
   * [Recurrent Neural Networks](#recurrent-neural-networks)
   * [Domain Adaptation](#domain-adaptation)
   * [Variational Autoencoders](#variational-autoencoders)
@@ -16,9 +16,9 @@
 
 ## 综述类
 
-- 李纪为博士论文[teaching machines to converse](https://github.com/topics/teaching-machines-to-converse)
-- 微软小冰产品设计结构[The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/pdf/1812.08989v1.pdf)  
-- 黄民烈组综述论文[Challenges in Building Intelligent Open-domain Dialog Systems]((https://arxiv.org/abs/1905.05709))
+- 李纪为博士论文 [teaching machines to converse](https://github.com/topics/teaching-machines-to-converse)
+- 微软小冰产品设计结构 [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/pdf/1812.08989v1.pdf)  
+- 黄民烈组综述论文 [Challenges in Building Intelligent Open-domain Dialog Systems]((https://arxiv.org/abs/1905.05709))
 
 ## Dataset
  * Budzianowski, Paweł, et al. **“MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling.”**Empirical Methods in Natural Language Processing, 2018, pp. 5016–5026.  
@@ -45,16 +45,40 @@ to Goal-Oriented Dialogue Systems
 ## Reinforcement Learning
 
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf), Jiwei Li et al., *arXiv*, 2016.
+
 * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
+
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](http://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., *arXiv*, 2016.
+
 * [SimpleDS: A Simple Deep Reinforcement Learning Dialogue System](http://arxiv.org/pdf/1601.04574v1.pdf), Heriberto Cuayahuitl, *arXiv*, 2016.
+
 * [Towards Interpretable Chit-chat: Open Domain Dialogue Generation with Dialogue Acts](https://openreview.net/pdf?id=Bym0cU1CZ), 2017.
+
 * [End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/pdf/1703.01008.pdf), Xiujun Li et al., *arXiv*, 2018.
 
-## Memory Networks
+* Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. 2016d. **Deep reinforcement learning for dialogue generation.** EMNLP .  
+
+* Jiwei Li, Will Monroe, and Dan Jurafsky. 2017c. **Learning to decode for future success**. arXiv preprint arXiv:1701.06549 .    
+
+* Zhou G, Luo P, Xiao Y, et al. **Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting**[C]. national conference on artificial intelligence, 2018: 5730-5737.
+
+* Liu, Bing, et al. **“Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models.”** National Conference on Artificial Intelligence, 2018, pp. 5245–5252
+
+  
+
+## 引入背景知识
+
 * [Evaluating Prerequisite Qualities For Learning End-to-End Dialog Systems](http://arxiv.org/pdf/1511.06931v6.pdf), Jesse Dodge et al., Facebook AI Research, ICLR 2016.
 * [Dialog-based Language Learning](https://arxiv.org/pdf/1604.06045v4.pdf), Jason Weston, *arXiv*, 2016.
 * [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/pdf/1605.07683.pdf), Antoine Bordes and Jason Weston, *arXiv*, 2016.
+* Zhou H, Young T, Huang M, et al. **Commonsense Knowledge Aware Conversation Generation with Graph Attention**[C]. international joint conference on artificial intelligence, 2018: 4623-4629.
+* He H, Balakrishnan A, Eric M, et al. **Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings**[J]. meeting of the association for computational linguistics, 2017: 1766-1776.  
+* Li J, Miller A H, Chopra S, et al. **Learning through Dialogue Interactions by Asking Questions**[J]. international conference on learning representations, 2017.  
+* Ghazvininejad M, Brockett C, Chang M, et al. **A Knowledge-Grounded Neural Conversation Model**[J]. national conference on artificial intelligence, 2018: 5110-5117.
+* Zhu W, Mo K, Zhang Y, et al. **Flexible End-to-End Dialogue System for Knowledge Grounded Conversation.**[J]. arXiv: Computation and Language, 2017.  
+* Guo, Daya, et al. **“Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base.”** NIPS 2018: The 32nd Annual Conference on Neural Information Processing Systems, 2018, pp. 2946–2955
+* Fan Wang Jinhua Peng Hua Wu Rongzhong Lian, Min Xie. **Learning to select knowledge for response generation in dialog systems.** arXiv preprint arXiv:1902.04911, 2019.
+* **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems** ACL2018 
 
 ## Recurrent Neural Networks
 * [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/pdf/1503.02364v2.pdf), Lifeng Shang et al., *arXiv*, 2015.
@@ -66,12 +90,17 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
 * [LSTM based Conversation Models](http://arxiv.org/pdf/1603.09457v1.pdf), Yi Luan et al., *arXiv*, 2016.
 * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams and Geoffrey Zweig., *arXiv*, 2016.
 
- * 
+  
+
 
 ## Domain Adaptation
 * [Multi-domain Neural Network Language Generation for Spoken Dialogue Systems](http://mi.eng.cam.ac.uk/~sjy/papers/wgmr16.pdf), Tsung-Hsien Wen et al.
+
 * [Domain Adaptation with Unlabeled Data for Dialog Act Tagging](http://ttic.uchicago.edu/~klivescu/papers/margolis_etal_danlp2010.pdf), Anna Margolis et al.
+
 * [Learning Domain-Independent Dialogue Policies via Ontology Parameterisation](http://mi.eng.cam.ac.uk/~sjy/papers/wsws15.pdf), Zhuoran Wang et al.
+
+  
 
 ## Variational Autoencoders
 
@@ -175,24 +204,12 @@ Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf), Iulian 
   - Eric Chu, Prashanth Vijayaraghavan, Deb Roy. **"Learning Personas from Dialogue with Attentive Memory Networks."** EMNLP (2018). 
   - Saizheng Zhang,Emily Dinan,Jack Urbanek,Arthur Szlam,Douwe Kiela,Jason Weston **Personalizing Dialogue Agents: I have a dog, do you have pets too?**AAAI2018
   - Kaixiang Mo, Shuangyin Li, Yu Zhang, Jiajun Li, Qiang Yang**Personalizing a Dialogue System with Transfer Learning.**AAAI2018
-- 引入结构化知识（背景信息，知识图谱等）
-  - Zhou H, Young T, Huang M, et al. **Commonsense Knowledge Aware Conversation Generation with Graph Attention**[C]. international joint conference on artificial intelligence, 2018: 4623-4629.
-  - He H, Balakrishnan A, Eric M, et al. **Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings**[J]. meeting of the association for computational linguistics, 2017: 1766-1776.  
-  - Li J, Miller A H, Chopra S, et al. **Learning through Dialogue Interactions by Asking Questions**[J]. international conference on learning representations, 2017.  
-  - Ghazvininejad M, Brockett C, Chang M, et al. **A Knowledge-Grounded Neural Conversation Model**[J]. national conference on artificial intelligence, 2018: 5110-5117.
-  - Zhu W, Mo K, Zhang Y, et al. **Flexible End-to-End Dialogue System for Knowledge Grounded Conversation.**[J]. arXiv: Computation and Language, 2017.  
-  - Guo, Daya, et al. **“Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base.”** NIPS 2018: The 32nd Annual Conference on Neural Information Processing Systems, 2018, pp. 2946–2955
-  - Fan Wang Jinhua Peng Hua Wu Rongzhong Lian, Min Xie. **Learning to select knowledge for response generation in dialog systems.** arXiv preprint arXiv:1902.04911, 2019.
-  - **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems** ACL2018 
+  
+  
 - 基于GAN的对话系统  
   - Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
   - Young, Tom, et al.  **Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.”**National Conference on Artificial Intelligence, 2018, pp. 4970–4977.    
   - Zhang, Yizhe, et al. **“Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization.”** Neural Information Processing Systems, 2018, pp. 1815–1825.
-- 基于强化学习的对话系统
-  - Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. 2016d. **Deep reinforcement learning for dialogue generation.** EMNLP .  
-  - Jiwei Li, Will Monroe, and Dan Jurafsky. 2017c. **Learning to decode for future success**. arXiv preprint arXiv:1701.06549 .    
-  - Zhou G, Luo P, Xiao Y, et al. **Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting**[C]. national conference on artificial intelligence, 2018: 5730-5737.
-  - Liu, Bing, et al. **“Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models.”** National Conference on Artificial Intelligence, 2018, pp. 5245–5252
 - 对话历史信息建模
   - Xing C, Wu Y, Wu W, et al. **Hierarchical Recurrent Attention Network for Response Generation**[J]. national conference on artificial intelligence, 2018: 5610-5617. 
   - Ruizhe Li, Chenghua Lin, Matthew Collinson, Xiao Li, Guanyi Chen. "**A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification**." arXiv:1810.09154 (2018).  
