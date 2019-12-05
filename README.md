@@ -2,7 +2,7 @@
 系统整理NLP各个方向需要阅读的论文
 
 - [对话系统](./dialogue-system.md)
-- [自动摘要]( http://pfliu.com/Historiography/summarization/summ.html )
+- [自动摘要](http://pfliu.com/Historiography/summarization/summ.html)
 - [问答](https://github.com/seriousran/awesome-qa)
 
 
