@@ -11,6 +11,7 @@
 |         | COLING 2020       |                                        |                              | Apr 09， 2020       |                    |                     | [https://coling2020.org](https://coling2020.org/) |
 |         |ECNLP-2 @ WWW 2020 | Taipei                                 |                              | Jan 27, 2020        | Feb 6, 2020        | Feb 15, 2020        | https://sites.google.com/view/ecnlp/www-2020      |
 |        | STARSEM 2020       | Barcelona, Spain                       |                              | May 20, 2020        | Jun 24, 2020        |                     | https://sites.google.com/view/starsem2020/        |
+|         | MNLP 2020         | Agadir – Essaouira                     |                              | Jun 28, 2020        | Aug 30, 2020      | Sep 13, 2020      | http://www.ieee.ma/cist20/special-invited-sessions/nlp  |
 |         |                   |                                        |                              | 已结束投稿          |                    |                     |                                                   |
 |         | ICIAI 2020        | Xiamen, China                          |                              | Nov 30, 2019        |                    |                     | http://www.iciai.org/                             |
 |         | AAAI 2020         | Hilton New York Midtown, New York, USA | Aug 30, 2019                 | Sep 5, 2019         | Nov 10, 2019       | Nov 21, 2019        | https://aaai.org/Conferences/AAAI-20/             |
