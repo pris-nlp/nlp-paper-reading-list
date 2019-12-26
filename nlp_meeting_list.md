@@ -9,6 +9,8 @@
 |         | IREC 2020         | Hammamet. Tunisia                      | January 6th, 2020            |                     | February 9th, 2020 | February 20th, 2020 | https://irec-conference.com/                      |
 |         | ACL 2020          | Seattle, WA                            |                              | Dec 9, 2019         | Apr 3, 2020        | Apr 24, 2020        | https://acl2020.org/                              |
 |         | COLING 2020       |                                        |                              | Apr 09， 2020       |                    |                     | [https://coling2020.org](https://coling2020.org/) |
+|         |ECNLP-2 @ WWW 2020 | Taipei                                 |                              | Jan 27, 2020        | Feb 6, 2020        | Feb 15, 2020        | https://sites.google.com/view/ecnlp/www-2020      |
+|        | STARSEM 2020       | Barcelona, Spain                       |                              | May 20, 2020        | Jun 24, 2020        |                     | https://sites.google.com/view/starsem2020/        |
 |         |                   |                                        |                              | 已结束投稿          |                    |                     |                                                   |
 |         | ICIAI 2020        | Xiamen, China                          |                              | Nov 30, 2019        |                    |                     | http://www.iciai.org/                             |
 |         | AAAI 2020         | Hilton New York Midtown, New York, USA | Aug 30, 2019                 | Sep 5, 2019         | Nov 10, 2019       | Nov 21, 2019        | https://aaai.org/Conferences/AAAI-20/             |
