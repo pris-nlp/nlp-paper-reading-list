@@ -19,6 +19,7 @@ NLP核心技能的入门文章、资源等（适合用于初学者自学）。�
 ### LSTM
 - [探索LSTM：基本概念到内部结构](https://zhuanlan.zhihu.com/p/27345523)
 - [理解 LSTM 网络](https://www.jianshu.com/p/9dc9f41f0b29)
+- [循环神经网络(RNN)模型与前向反向传播算法](https://www.cnblogs.com/pinard/p/6509630.html)
 - [LSTM模型与前向反向传播算法 - 刘建平Pinard - 博客园](http://www.cnblogs.com/pinard/p/6519110.html)
 
 ### 对话系统
