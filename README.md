@@ -11,3 +11,5 @@ NLPer可投的论文列表
 
 - [会议列表](./nlp_meeting_list.md)
 
+了解NLP主流技术的文章、博客等
+- [boosting_nlp_skills.md](./boosting_nlp_skills.md)
